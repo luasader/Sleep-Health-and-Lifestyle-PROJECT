@@ -2,6 +2,8 @@
 We will use a dataSet from Laksika Tharmalingam, especial thank you!
 It can be found in url="https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data"
 
+Mi notion portfolio project url="https://www.notion.so/Full-Project-Sleep-Health-and-Lifestyle-642b503669cc4aeba79b0dec9323e446?pvs=4"
+
 ### What is Sleep?
 Sleep is a period of rest. Sleep is a state of reduced mental and physical activity in which consciousness is altered and sensory activity is inhibited to a certain extent. During sleep, there is a decrease in muscle activity, and interactions with the surrounding environment. While sleep differs from wakefulness in terms of the ability to react to stimuli, it still involves active brain patterns, making it more reactive than a coma or disorders of consciousness.
 
